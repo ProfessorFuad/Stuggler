@@ -1,2 +1,2 @@
 # Stuggler
-Social Networking Sitr for academics
+Social Networking Site for academics
